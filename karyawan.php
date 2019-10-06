@@ -139,7 +139,7 @@
                                                 <td><?php echo $dataa['jenis_kelamin']; ?></td>
                                                 <td>
                                                     <a href="ekaryawan.php?id_karyawan=<?=$dataa['id_karyawan']?>" class="btn btn-success"> Edit</a> 
-                                                    <a href='hkaryawan.php?id_karyawan=<?=$dataa['id_karyawan']?>' class="btn btn-danger"> Delete</a>
+                                                    <a href="hkaryawan.php?id_karyawan=<?=$dataa['id_karyawan']?>"" class="btn btn-danger"> Delete</a>
 
                                                 </td>
                                             </tr>
